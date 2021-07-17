@@ -1,2 +1,2 @@
 # fluentd
-Fluentd with kafka and elasticsearch plugins
+Based on fluentd kubernetes daemonset image with additional plugins
